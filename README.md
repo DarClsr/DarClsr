@@ -24,7 +24,8 @@
 
 ### 关于我
 - [小案例](https://darclsr.github.io/iwan_css_github.io/)
-- [技术笔记](https://home.cnblogs.com/u/duanyiwen)
+- [技术笔记](https://www.cnblogs.com/duanyiwen/)
+- [ai助理](http://124.223.9.219:3000/)
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 
